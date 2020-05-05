@@ -10,4 +10,4 @@ Automating file transfer using python.
    
 
 3. ExtentionBasedSeparation.py : 
-   This sepearates the files in different folders based on there extensions. Only thing we need to do is improve the code to make it event based. i.e, whenever a file enters the folder it will automatically go to the desired folder.
+   This sepearates the files in different folders based on their extensions. Only thing that we need to do is, improve the code to make it event based. i.e, whenever a file enters the folder it will automatically go to the desired folder.
