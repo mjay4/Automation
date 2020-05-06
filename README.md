@@ -11,3 +11,7 @@ Automating file transfer using python.
 
 3. ExtentionBasedSeparation.py : 
    This sepearates the files in different folders based on their extensions. Only thing that we need to do is, improve the code to make it event based. i.e, whenever a file enters the folder it will automatically go to the desired folder.
+
+
+4. FlipkartPrice.py : 
+    The purpose of this program is to search the css style in the page and then output the price of the item after parsing. We can improve the code by using loop to run through thousands of urls and automate it further by storing it in a text file for future reference.
