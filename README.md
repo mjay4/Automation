@@ -15,3 +15,6 @@ Automating file transfer using python.
 
 4. FlipkartPrice.py : 
     The purpose of this program is to search the css style in the page and then output the price of the item after parsing. We can improve the code by using loop to run through thousands of urls and automate it further by storing it in a text file for future reference.
+
+5. Facebook_login.py: 
+   It opens the facebook page and logs you in directly after one time setup. We can further optimise it by creating a .bat file and running it from command line.
